@@ -12,6 +12,12 @@ INSERT INTO [dbo].[Personal Info]
            ,'01/01/2025'
            ,777) 
            
+     VALUES
+           ('LayLow'
+           ,'Mahlanguu'
+           ,1998-11-26
+           ,999)
+           
 GO
  
 
